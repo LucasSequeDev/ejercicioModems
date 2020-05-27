@@ -10,7 +10,7 @@ La estructura del ejercicio cuenta con dos partes:
 
   Para ejecutar en modo de desarrollador, se debera utilizar el siguiente comando
 
-  1. cd frontend
+  1. cd ejercicio-stechs/
   2. npm install
 
   Para correr la aplicacion en desarrollo, ejecutar el siguiente comando:
@@ -23,7 +23,7 @@ La estructura del ejercicio cuenta con dos partes:
 
   Para ejecutar la API, se debera utilizar los siguientes comandos:
 
-  1. cd api
+  1. cd api/
   2. npm install
 
   Se debera crear la base de datos. Copiar el archivo .env-example a .env y cargar las variables de entorno segun corresponda.
